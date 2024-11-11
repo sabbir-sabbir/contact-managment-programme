@@ -1,0 +1,135 @@
+*{
+ padding: 0px;
+ margin: 0px;
+}
+.heading{
+    padding: 7px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: #8ecae6;
+}
+
+.search-contact-div{
+    margin-top: 7px;
+    width: 100%;
+    height: 50px;
+}
+.search-contact{
+ color: #ff006e; 
+ background-color: aliceblue;
+ font-weight: 600;  
+ margin-left: 30%;   
+ align-items: center;
+ padding: 10px 150px 10px 150px;
+ border: none;
+ outline-color: #0096c7;
+
+
+}
+.manage-contactForm{
+    display: flex;
+    gap: 70px;
+    width: 100%;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+}
+.set-Name{
+ color: #ff006e; 
+ background-color: aliceblue;
+ font-weight: 600;  
+   
+ align-items: center;
+ padding: 10px 15px 10px 10px;
+ border: none;
+ outline-color: #0096c7;
+}
+.set-phone{
+    color: #ff006e; 
+ background-color: aliceblue;
+ font-weight: 600;  
+   
+ align-items: center;
+ padding: 10px 15px 10px 10px;
+ border: none;
+ outline-color: #0096c7;
+}
+.set-email{
+    color: #ff006e; 
+    background-color: aliceblue;
+    font-weight: 600;  
+      
+    align-items: center;
+    padding: 10px 15px 10px 10px;
+    border: none;
+    outline-color: #0096c7;
+}
+.contact-button{
+    color: #2600ff92; 
+    background-color: aliceblue;
+    font-weight: 600;  
+      
+    align-items: center;
+    padding: 10px 15px 10px 10px;
+    border: none;
+    outline-color: #0096c7;
+}
+.contact-list{
+    width: 70%;
+    height: auto;
+    padding: 7px 15px 7px 15px;
+    margin-left: 10px;
+
+}
+.contact-item{
+    display: flex;
+    gap: 120px;
+    padding: 7px 0px 7px 0px;
+   
+}
+.contact-info{
+    display: flex;
+    gap: 10px;
+    
+}
+
+.screen-name{
+    color: #00b4d8;
+    padding-right: 5px;
+    border-right: 2px solid #f77f00;
+}
+.screen-phone{
+    color: #f72585;
+    padding-right: 5px;
+    border-right: 2px solid #f77f00;
+}
+.screen-gmail{
+    color: #f72585;
+    
+}
+
+.edit-button{
+    padding: 7px 18px 7px 18px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    color: black;
+    background-color: #ccff33;
+   margin-right: 7px;
+}
+.edit-button:hover{
+    background-color: #38b000;
+
+}
+.delete-button{
+    padding: 7px 18px 7px 18px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    color: black;
+    background-color: #ccff33;
+   margin-right: 7px;
+}
+.delete-button:hover{
+    background-color: red;
+    
+}
